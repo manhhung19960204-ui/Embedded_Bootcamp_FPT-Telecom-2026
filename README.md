@@ -15,6 +15,7 @@ Lệnh quá dài (CMD_TOO_LONG): Kiểm tra khả năng chống tràn bộ nhớ
 Lệnh kèm tham số: Đảm bảo parser tách được từ khóa lệnh ngay cả khi có tham số đi kèm phía sau.
 
 4.Lệnh Run 
+
 gcc cmd_line.c Test_cmd_line.c -o test_app
 
 5. Hình ảnh đã chạy thành công
